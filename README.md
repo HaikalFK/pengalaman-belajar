@@ -8,3 +8,7 @@ Belajar Dasar Git dengan GitHub. (Progres 38%)
 **14 Februari 2025**<br>
 Belajar Dasar Git dengan GitHub. (Progres 39%)
 * Belajar tentang menambahkan lagi hal-hal ke dalam berkas README.md
+
+**Tak diketahui**<br>
+Belajar Dasar Git dengan GitHub. (Progres 100%)
+* Menyelesaikan seluruh kelas.
